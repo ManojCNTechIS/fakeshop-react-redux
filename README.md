@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This FakeShop project [React-Redux-app](https://fakeshop-react-redux.manthya20.repl.co).
 
 ## Available Scripts
 
